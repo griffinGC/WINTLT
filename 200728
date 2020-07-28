@@ -1,0 +1,11 @@
+# 200728
+
+- Supplier 확인
+- Object.requireNonNull();
+- 지연 초기화
+- 오토박싱
+- finalizer, cleaner
+  - 메모리 해제 위해 존재?
+- serializer, deserializer
+- Autoclosable
+  - try-with-resource
